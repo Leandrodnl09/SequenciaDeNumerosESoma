@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\bin\Debug\net6.0\SequanciaDeNumerosESoma.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\bin\Debug\net6.0\SequanciaDeNumerosESoma.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\bin\Debug\net6.0\SequanciaDeNumerosESoma.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\bin\Debug\net6.0\SequanciaDeNumerosESoma.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\bin\Debug\net6.0\SequanciaDeNumerosESoma.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\refint\SequanciaDeNumerosESoma.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\SequanciaDeNumerosESoma.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SequanciaDeNumerosESoma\obj\Debug\net6.0\ref\SequanciaDeNumerosESoma.dll
